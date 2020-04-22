@@ -1,6 +1,6 @@
 # tec-FACE
 ![](https://github.com/SteveJustin1963/tec-FACE/blob/master/pics/face-eyes-8x8.png)
-![](https://github.com/SteveJustin1963/tec-FACE/blob/master/pics/senses.png)
+![](https://github.com/SteveJustin1963/tec-FACE/blob/master/pics/senses2.png)
 
 
 
