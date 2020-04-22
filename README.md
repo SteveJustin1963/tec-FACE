@@ -10,5 +10,8 @@ Combines parts to make a robot face;
 * https://github.com/SteveJustin1963/tec-SPEECH
 * https://github.com/SteveJustin1963/tec-EYE
 * https://github.com/SteveJustin1963/tec-EAR
-* head motion
+* head motion, simple 1 axis H bridge driven by mic-sound and photo resistors
+
+## Iterate
+* head motion, x,y
 * eye motion
